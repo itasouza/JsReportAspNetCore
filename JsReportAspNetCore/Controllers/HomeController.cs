@@ -21,7 +21,7 @@ namespace JsReportAspNetCore.Controllers
         }
 
         /// <summary>
-        /// 1 -  fazer a instalação do using jsreport.AspNetCore; jsreport.Binary, jsreport.Local
+        /// 1 -  fazer a instalação do  jsreport.AspNetCore; jsreport.Binary, jsreport.Local
         /// 2 -  adicionar a configuração do Startup
         /// </summary>
         /// <returns></returns>
